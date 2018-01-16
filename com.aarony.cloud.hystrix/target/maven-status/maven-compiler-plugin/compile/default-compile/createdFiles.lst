@@ -1,0 +1,2 @@
+com\aarony\cloud\hystrix\ServiceHystrixApplication.class
+com\aarony\cloud\hystrix\service\HelloService.class

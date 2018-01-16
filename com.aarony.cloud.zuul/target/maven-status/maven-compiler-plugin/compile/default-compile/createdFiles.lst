@@ -1,0 +1,3 @@
+com\aarony\cloud\zuul\config\FilterConfiguration.class
+com\aarony\cloud\zuul\Application.class
+com\aarony\cloud\zuul\filter\AccessFilter.class

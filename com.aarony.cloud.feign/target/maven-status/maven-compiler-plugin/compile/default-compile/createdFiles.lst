@@ -1,0 +1,5 @@
+com\aarony\cloud\feign\service\RefactorHelloService.class
+com\aarony\cloud\feign\controller\ConsumerController.class
+com\aarony\cloud\feign\ConsumerApplication.class
+com\aarony\cloud\feign\service\HelloServiceFallBack.class
+com\aarony\cloud\feign\service\IHolleService.class
