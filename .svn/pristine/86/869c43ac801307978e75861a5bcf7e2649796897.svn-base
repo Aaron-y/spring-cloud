@@ -1,6 +1,0 @@
-server.port=8889
-eureka.client.serviceUrl.defaultZone=http://peer1:1111/eureka/,http://peer1:1112/eureka/
-
-spring.cloud.config.discovery.enabled=true
-spring.cloud.config.discovery.serviceId=cloud-config-server
-spring.cloud.config.profile=dev

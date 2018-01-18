@@ -1,4 +1,0 @@
-eureka.client.serviceUrl.defaultZone=http://peer1:1111/eureka/
-server.port=9000
-
-spring.application.name=ribbon-consumer
