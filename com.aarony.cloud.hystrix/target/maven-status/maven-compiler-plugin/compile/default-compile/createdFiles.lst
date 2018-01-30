@@ -1,2 +1,8 @@
-com\aarony\cloud\hystrix\ServiceHystrixApplication.class
 com\aarony\cloud\hystrix\service\HelloService.class
+com\aarony\cloud\hystrix\command\HystrixHelloCommand.class
+com\aarony\cloud\hystrix\command\HystrixObservableHelloCommand.class
+com\aarony\cloud\hystrix\service\HelloService$1.class
+com\aarony\cloud\hystrix\command\HystrixObservableHelloCommand$1.class
+com\aarony\cloud\hystrix\exception\BadRequestException.class
+com\aarony\cloud\hystrix\controller\CustomerController.class
+com\aarony\cloud\hystrix\ServiceHystrixApplication.class

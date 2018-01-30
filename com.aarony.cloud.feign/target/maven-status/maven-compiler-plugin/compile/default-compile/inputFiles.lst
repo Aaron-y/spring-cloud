@@ -1,5 +1,6 @@
-E:\Aarony\projectTest\com.aarony.cloud\com.aarony.cloud.feign\src\main\java\com\aarony\cloud\feign\controller\ConsumerController.java
-E:\Aarony\projectTest\com.aarony.cloud\com.aarony.cloud.feign\src\main\java\com\aarony\cloud\feign\service\HelloServiceFallBack.java
-E:\Aarony\projectTest\com.aarony.cloud\com.aarony.cloud.feign\src\main\java\com\aarony\cloud\feign\service\RefactorHelloService.java
-E:\Aarony\projectTest\com.aarony.cloud\com.aarony.cloud.feign\src\main\java\com\aarony\cloud\feign\service\IHolleService.java
-E:\Aarony\projectTest\com.aarony.cloud\com.aarony.cloud.feign\src\main\java\com\aarony\cloud\feign\ConsumerApplication.java
+E:\Aarony\my idea project\spring-cloud\com.aarony.cloud.feign\src\main\java\com\aarony\cloud\feign\ConsumerApplication.java
+E:\Aarony\my idea project\spring-cloud\com.aarony.cloud.feign\src\main\java\com\aarony\cloud\feign\service\RefactorHelloService.java
+E:\Aarony\my idea project\spring-cloud\com.aarony.cloud.feign\src\main\java\com\aarony\cloud\feign\config\FullLogConfiguration.java
+E:\Aarony\my idea project\spring-cloud\com.aarony.cloud.feign\src\main\java\com\aarony\cloud\feign\controller\ConsumerController.java
+E:\Aarony\my idea project\spring-cloud\com.aarony.cloud.feign\src\main\java\com\aarony\cloud\feign\controller\RefactorConsumerController.java
+E:\Aarony\my idea project\spring-cloud\com.aarony.cloud.feign\src\main\java\com\aarony\cloud\feign\service\IHolleService.java

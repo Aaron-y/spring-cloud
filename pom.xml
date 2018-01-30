@@ -57,5 +57,9 @@
 		<module>com.aarony.cloud.sleuth</module>
 		<module>com.aarony.cloud.zipkin-server</module>
 		<module>com.aarony.cloud.common</module>
+		<module>com.aarony.cloud.ribbon</module>
+    <module>com.aarony.cloud.turbine</module>
+    <module>com.aarony.cloud.turbion</module>
+		<module>com.aarony.cloud.turbine</module>
 	</modules>
 </project>
