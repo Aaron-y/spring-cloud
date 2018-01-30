@@ -45,6 +45,7 @@ public class AccessFilter extends ZuulFilter {
 
     @Override
     public String filterType() {
+        //有几种拦截的类型，pre是在执行之前拦截
         return "pre";// 过滤的类型，在拦截之前做处理
     }
 

@@ -60,7 +60,12 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-aop</artifactId>
 		</dependency>
-	</dependencies>
+    <dependency>
+      <groupId>com.netflix.hystrix</groupId>
+      <artifactId>hystrix-javanica</artifactId>
+      <version>1.5.12</version>
+    </dependency>
+  </dependencies>
 	<build>
 		<plugins>
 			<plugin>

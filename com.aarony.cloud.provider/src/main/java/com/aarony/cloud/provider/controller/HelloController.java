@@ -31,16 +31,22 @@ public class HelloController {
 
     @RequestMapping(value = "hello1", method = RequestMethod.GET)
     public String hello(@RequestParam String name) {
+        ServiceInstance instance = client.getLocalServiceInstance();
+        Logger.info("host:" + instance.getHost() + "; port:" + instance.getPort());
         return "hello " + name;        
     }
 
     @RequestMapping(value = "hello2", method = RequestMethod.GET)
     public User hello(@RequestParam String name, @RequestHeader Integer age) {
+        ServiceInstance instance = client.getLocalServiceInstance();
+        Logger.info("host:" + instance.getHost() + "; port:" + instance.getPort());
         return new User(name, age);
     }
 
     @RequestMapping(value = "hello3", method = RequestMethod.POST)
     public String hello(@RequestBody User user) {
+        ServiceInstance instance = client.getLocalServiceInstance();
+        Logger.info("host:" + instance.getHost() + "; port:" + instance.getPort());
         return "hello " + user.getName() + "," + user.getAge();
     }
 }
