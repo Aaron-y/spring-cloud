@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.client/com.aarony.cloud.client.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.client/com.aarony.cloud.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.common/com.aarony.cloud.common.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.common/com.aarony.cloud.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.config/com.aarony.cloud.config.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.config/com.aarony.cloud.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.config.client/com.aarony.cloud.config.client.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.config.client/com.aarony.cloud.config.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.core/com.aarony.cloud.core.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.core/com.aarony.cloud.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.feign/com.aarony.cloud.feign.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.feign/com.aarony.cloud.feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.hello-api/com.aarony.cloud.hello-api.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.hello-api/com.aarony.cloud.hello-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.hystrix/com.aarony.cloud.hystrix.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.hystrix/com.aarony.cloud.hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.provider/com.aarony.cloud.provider.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.provider/com.aarony.cloud.provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.server/com.aarony.cloud.server.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.server/com.aarony.cloud.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.sleuth/com.aarony.cloud.sleuth.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.sleuth/com.aarony.cloud.sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.zipkin-server/com.aarony.cloud.zipkin-server.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.zipkin-server/com.aarony.cloud.zipkin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aarony.cloud.zuul/com.aarony.cloud.zuul.iml" filepath="$PROJECT_DIR$/com.aarony.cloud.zuul/com.aarony.cloud.zuul.iml" />
+    </modules>
+  </component>
+</project>

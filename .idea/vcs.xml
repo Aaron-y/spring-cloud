@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.client" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.common" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.config" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.config.client" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.core" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.feign" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.hello-api" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.hystrix" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.provider" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.server" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.sleuth" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.zipkin-server" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/com.aarony.cloud.zuul" vcs="svn" />
+  </component>
+</project>
